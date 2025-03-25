@@ -52,7 +52,7 @@ You will be working with three tables:
 
  For Each Task  provide insights and interpretations of the results obtained from your queries.
   
-How to Proceed
+How to Proceed:
 
 1.Database Creation: Use the provided commands to create the necessary database for the project.
 
