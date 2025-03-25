@@ -56,7 +56,7 @@ How to Proceed
 
 1.Database Creation: Use the provided commands to create the necessary database for the project.
 
-2.Perform Analysis:  Utilize SQL and MySQL Workbench to execute queries and extract insights from the data
+2.Perform Analysis:  Utilize SQL and MySQL to execute queries and extract insights from the data
 
 3.Report Preparation: Compile your findings into a report in PDF or PowerPoint format, including SQL queries and outputs.
 
@@ -69,7 +69,7 @@ Approach :The project involves cleaning data, running SQL queries, and analyzing
 
 Tech-Stack Used :
 
-MySQL Workbench (8.0 CE): For comprehensive data analysis and anomaly detection.  
+SQL: For comprehensive data analysis and anomaly detection.  
 
 Insights :
 Insights include trends in throughput, language usage, and spike detection. These findings enhance operational understanding and improve decision-making.
@@ -77,7 +77,7 @@ Insights include trends in throughput, language usage, and spike detection. Thes
 Result:
 The project successfully analyzed metric spikes and provided actionable insights. It demonstrates how SQL can solve complex operational problems.
 
-### View the Report
+### Drive Link:
 [Click here to access the Operation Analytics and Investigating Metric Spike Report](https://drive.google.com/file/d/1yjxGuiFVX9lGzJvfmsuvxJpNmNBP_XCk/view?usp=sharing)
   
   
